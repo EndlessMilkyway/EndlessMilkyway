@@ -55,8 +55,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  
+  #
+  
+  [![KYR's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndlessMilkyway)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EndlessMilkyway&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
-
 
 
 <!--
