@@ -1,5 +1,7 @@
 ### Hi there 👋
-<center>About Me</center>
+<div align="center">
+  # About Me
+</div>
 
 <!--
 **EndlessMilkyway/EndlessMilkyway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
