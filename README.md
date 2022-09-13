@@ -1,9 +1,8 @@
 <div align="center">
   <h1>About Me 🔍</h1>
   Hello I'm Yeong Ryul Kim.
-  I'm computer science undergraduate student.
   <br><br>
-  Currently studying at Gyeongsang National University in South Korea. [Expected date of graduation FEB.2023]
+  I Currently studying at Gyeongsang National University in South Korea. [Expected date of graduation FEB.2023]
   <br><br>
   I'm currently learning Backend development method and want be a backend developer.
   <br><br>
