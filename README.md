@@ -7,6 +7,9 @@
   I learning Backend development method now and want be a backend developer.
   <br><br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEndlessMilkyway%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <h1>CV</h1>
+  <h1>Blog<h1>
+  
   <!--<h1>Tech Skills 🛠</h1>
   <strong>-Language-</strong>
   <br><br>
