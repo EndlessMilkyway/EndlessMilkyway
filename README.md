@@ -66,6 +66,8 @@
   
   [![KYR's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndlessMilkyway)](https://github.com/EndlessMilkyway)
   
+  <figure><embed src="https://wakatime.com/share/@endlessmilkyway/27b57f49-8a73-40a3-9819-83fda3b2c695.svg"></embed></figure>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EndlessMilkyway&layout=compact)](https://github.com/EndlessMilkyway)
   
 </div>
