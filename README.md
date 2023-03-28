@@ -2,9 +2,9 @@
   <h1>About Me 🔍</h1>
   Hello I'm Yeong Ryeol Kim.
   <br><br>
-  I'm currently studying at Gyeongsang National University in South Korea. [Expected date of graduation FEB.2023]
+  Graduated Gyeongsang National University in South Korea at FEB.2023
   <br><br>
-  I learning Backend development method now and want be a backend developer.
+  Currently learning Java, Spring, Kubernetes, AWS
   <br><br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEndlessMilkyway%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <br><br>
