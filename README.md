@@ -1,12 +1,12 @@
 <!--<div align="center">-->
-# About Me 🔍
+# ABOUT ME 🔍
 Hello I'm Yeong Ryeol Kim. I want be Backend Developer. So I currently learning about Java, Spring Boot, Kubernetes, AWS.
 
 # EDUCATION
 - Graduated Gyeongsang National University in South Korea at FEB.2023
 - Currently learning about Java, Spring Boot, Kubernetes, AWS
 
-# Tech Skills 🛠
+# TECH SKILLS 🛠
 
 ## LANGUAGE
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
