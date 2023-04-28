@@ -53,7 +53,7 @@ Hello I'm Yeong Ryeol Kim. I want be Backend Developer. So I currently learning 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
 
 # SITE
-### <a href="https://milkyway08.tistory.com/">Blog</a>
+### <a href="https://blog.endlessmilkyway.com/">Blog</a>
 
 # ETC
 <div align="center">
