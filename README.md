@@ -23,7 +23,7 @@ Hello I'm Yeong Ryeol Kim. I want be Backend Developer. So I currently learning 
 
 - I have a experience to make my own proxmox local server.
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Alpine Linux-0D597F?style=for-the-badge&logo=Alpine Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/lxc-333333?style=for-the-badge&logo=linuxcontainers&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Alpine Linux-0D597F?style=for-the-badge&logo=Alpine Linux&logoColor=white"/>
 
 - I've built an Ubuntu LXC at Proxmox to manage docker containers.
 - I've built an Alpine Linux LXC for managing my personal web application.
