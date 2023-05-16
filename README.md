@@ -3,7 +3,6 @@ Hello I'm Yeong Ryeol Kim. I want be Backend Developer. So I currently learning 
 
 # EDUCATION
 - Graduated Gyeongsang National University in South Korea at FEB.2023
-- Currently learning about Java, Spring Boot, Kubernetes, AWS
 
 # TECH SKILLS 🛠
 
