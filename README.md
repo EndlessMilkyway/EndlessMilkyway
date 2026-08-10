@@ -17,7 +17,7 @@
 
 ## EDUCATION
 - [2025.02 ~ 2025.09] Spring 기반 백엔드 개발자 성장과정 (KDT 딥다이브, 주식회사 구름)
-- [2017.03 ~ 2023.02] Graduated from the Department of Computer Science, Gyeongsang National University, South Korea
+- [2017.03 ~ 2023.02] 경상국립대학교 자연과학대학 컴퓨터과학과
 
 # ETC
 <div align="center">
